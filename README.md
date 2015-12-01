@@ -10,3 +10,6 @@ With this API we can fast get words, translate them and identify language. Or li
 
 We use the API to get a random word in swedish and the translation of the word in english.
 We also get 3 other random words in english to be showen in the alternative list.  
+
+As you can read in the pdf this was a project in a class at Malmö University
+Members was: Sofie Andersson, Qasim Ahmad, Simon Gullstrand and Gustav Frigren
