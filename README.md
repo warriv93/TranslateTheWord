@@ -13,3 +13,6 @@ We also get 3 other random words in english to be showen in the alternative list
 
 As you can read in the pdf this was a project in a class at Malmö University
 Members was: Sofie Andersson, Qasim Ahmad, Simon Gullstrand and Gustav Frigren
+
+
+![translateWord](http://simon.brasse-pc.eu/portfolio/images/translateWord/translateWord.png)
