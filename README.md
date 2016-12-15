@@ -12,11 +12,10 @@ Members was: Sofie Andersson, Qasim Ahmad, Simon Gullstrand and Gustav Frigren
 ## APIs used
 We are using thesHub which is a multilanguage API that works like a big vocabulary.
 With this API we can fast get words, translate them and identify language.
-
 We use the API to get a random word in swedish and the translation of the word in english.
-We also get 3 other random words in english to be showen in the alternative list.  
+Also we get 3 other random words in english to be showen in the alternative list.  
 
-
+The Facebook api is also used to allow the user to share his/hers results at the end of each game.
 
 
 ![translateWord](http://simon.brasse-pc.eu/portfolio/images/translateWord/translateWord.png)
